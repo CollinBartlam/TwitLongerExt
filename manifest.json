@@ -2,7 +2,7 @@
 
     "manifest_version": 2,
     "name": "TwitLongerExt",
-    "version": "0.1",
+    "version": "0.1.1",
   
     "description": "A browser extension that will automatically give a redirect to TwitLonger when a tweet is filled.",
   
